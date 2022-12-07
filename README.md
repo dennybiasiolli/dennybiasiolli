@@ -1,5 +1,13 @@
 # 👋 Hi there, I'm Denny
 
+I'm a developer and a trail runner, and I enjoy both coding and hitting the trails.
+When I'm not busy turning lines of code into beautiful and functional applications,
+you can find me running through the mountains and breathing in the fresh air.
+I'm a firm believer that a healthy mind and body lead to better coding,
+so I try to balance my love for technology with a love for the great outdoors.<br>
+Just remember: if you can't find me at my desk, I'm probably out for a run!
+
+
 #### Links
 
 [Website](https://www.dennybiasiolli.com/)
@@ -30,12 +38,12 @@ class Denny(Person):
     def get_location(self):
         return 'Savigliano, Piedmont, Italy'
 
-    def get_codes(self):
+    def get_languages(self):
         return [
-            'Python', 'Go',
-            'JavaScript', 'TypeScript',
-            'HTML', 'CSS',
-            'SQL',
+            'Python',
+            'JavaScript',
+            'TypeScript',
+            'Go',
         ]
 
     def get_tools(self):
@@ -43,6 +51,7 @@ class Denny(Person):
             'Django', 'django-rest-framework',
             'Vue.js', 'Vuex', 'Vuetify',
             'React', 'Redux',
+            'GORM', 'Go Fiber',
         ]
 ```
 
