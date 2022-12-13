@@ -29,30 +29,20 @@ Just remember: if you can't find me at my desk, I'm probably out for a run!
 [YouTube](https://www.youtube.com/user/dennybiasiolli)
 
 
-```py
-class Denny(Person):
-
-    def get_work(self):
-        return 'Freelance Full Stack Developer, working full-time at Fingerprint'
-
-    def get_location(self):
-        return 'Savigliano, Piedmont, Italy'
-
-    def get_languages(self):
-        return [
-            'Python',
-            'JavaScript',
-            'TypeScript',
-            'Go',
-        ]
-
-    def get_tools(self):
-        return [
-            'Django', 'django-rest-framework',
-            'Vue.js', 'Vuex', 'Vuetify',
-            'React', 'Redux',
-            'GORM', 'Go Fiber',
-        ]
+```json
+{
+    "name": "Denny Biasiolli",
+    "job": "Freelance Full Stack Developer, working full-time at Fingerprint",
+    "location": "Savigliano, Piedmont, Italy",
+    "skills": [
+        "Python", "Django", "django-rest-framework",
+        "JavaScript", "Vue.js", "Pinia", "Vuex", "Vuetify", "React",
+        "Go", "GORM", "Go Fiber"
+    ],
+    "interests": [
+        "web development", "reading", "trail running"
+    ]
+}
 ```
 
 <!--
