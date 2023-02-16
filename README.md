@@ -12,9 +12,13 @@ Just remember: if you can't find me at my desk, I'm probably out for a run!
 
 [Website](https://www.dennybiasiolli.com/)
 |
-[GitHub](https://github.com/dennybiasiolli/)
+[Email](mailto:info@dennybiasiolli.com)
+|
+[Telegram](https://t.me/DennyBiasiolli)
 |
 [LinkedIn](https://www.linkedin.com/in/dennybiasiolli/)
+|
+[GitHub](https://github.com/dennybiasiolli/)
 |
 [NPM](https://www.npmjs.com/~dennybiasiolli)
 |
@@ -24,7 +28,7 @@ Just remember: if you can't find me at my desk, I'm probably out for a run!
 |
 [Twitter](https://twitter.com/dennybiasiolli)
 |
-[Garmin](https://connect.garmin.com/modern/profile/dennybiasiolli)
+[Mastodon](https://mastodon.uno/@dennybiasiolli)
 |
 [YouTube](https://www.youtube.com/user/dennybiasiolli)
 
@@ -40,7 +44,8 @@ Just remember: if you can't find me at my desk, I'm probably out for a run!
         "Go", "GORM", "Go Fiber"
     ],
     "interests": [
-        "web development", "reading", "trail running"
+        "reading", "running", "trail running",
+        "talks", "tech conferences"
     ]
 }
 ```
