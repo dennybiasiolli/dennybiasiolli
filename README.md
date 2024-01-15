@@ -46,7 +46,7 @@ Just remember: if you can't find me at my desk, I'm probably out for a run!
     ],
     "interests": [
         "reading", "running", "trail running",
-        "talks", "tech conferences"
+        "talks", "tech conferences", "open source"
     ]
 }
 ```
