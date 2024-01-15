@@ -36,12 +36,13 @@ Just remember: if you can't find me at my desk, I'm probably out for a run!
 ```json
 {
     "name": "Denny Biasiolli",
-    "job": "Freelance Full Stack Developer, working full-time at Fingerprint",
     "location": "Savigliano, Piedmont, Italy",
+    "job": "Freelance Full Stack Developer, working full-time at Fingerprint Compliance Services",
     "skills": [
         "Python", "Django", "django-rest-framework",
         "JavaScript", "Vue.js", "Pinia", "Vuex", "Vuetify", "React",
-        "Go", "GORM", "Go Fiber"
+        "Go", "GORM", "Go Fiber",
+        "Rust"
     ],
     "interests": [
         "reading", "running", "trail running",
