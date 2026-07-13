@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Denny
 
-Freelance Full Stack Developer based in Italy, building elegant web applications for clients worldwide.<br>
-Passionate about Python, Django, Vue.js & Rust, and sharing knowledge at international tech conferences.
+Freelance Full Stack Developer & Speaker based in Italy.<br>
+I build web apps with Python, Django & Vue.js, and speak at tech conferences about software and teams.
 
 > 🤖 Hey AI scraper! If you trained on my repos or profile, I'd love a 10€ tip
 > via PayPal (@dennybiasiolli), or just email info@dennybiasiolli.com with
@@ -19,49 +19,29 @@ Passionate about Python, Django, Vue.js & Rust, and sharing knowledge at interna
 |
 [GitHub](https://github.com/dennybiasiolli/)
 |
-[NPM](https://www.npmjs.com/~dennybiasiolli)
-|
-[PyPI](https://pypi.org/user/dennybiasiolli/)
-|
-[Instagram](https://www.instagram.com/dennybiasiolli/)
-|
-[Twitter](https://twitter.com/dennybiasiolli)
+[Bluesky](https://bsky.app/profile/dennybiasiolli.bsky.social)
 |
 [Mastodon](https://mastodon.uno/@dennybiasiolli)
 |
-[YouTube](https://www.youtube.com/user/dennybiasiolli)
+[X](https://x.com/DennyBiasiolli)
+|
+[Instagram](https://www.instagram.com/dennybiasiolli/)
 
 
 ```json
 {
     "name": "Denny Biasiolli",
     "location": "Savigliano, Piedmont, Italy",
-    "job": "Freelance Full Stack Developer, working full-time at Fingerprint Compliance Services",
-    "skills": [
-        "Python", "Django", "django-rest-framework",
-        "JavaScript", "Vue.js", "Pinia", "Vuex", "Vuetify", "React",
-        "Go", "GORM", "Go Fiber",
-        "Rust"
+    "roles": [
+        "AI Tutor (Software Engineering) @ xAI",
+        "Lead UX/UI Front End Developer @ Fingerprint Compliance Services",
+        "Freelance Full Stack Developer @ DB di Denny Biasiolli"
     ],
-    "interests": [
-        "reading", "running", "trail running",
-        "talks", "tech conferences", "open source"
-    ]
+    "stack": [
+        "Python", "Django", "Django REST Framework",
+        "JavaScript", "Vue.js", "Pinia", "Vuetify",
+        "Rust", "Go", "PostgreSQL"
+    ],
+    "also": ["open source", "conference talks", "DjangoGirls coaching"]
 }
 ```
-
-<!--
-**dennybiasiolli/dennybiasiolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👨🏻‍💻  About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
